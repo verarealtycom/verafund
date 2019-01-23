@@ -1,9 +1,8 @@
 
+[![Build Status](https://verarealty.github.io/assets/images/logomakr3y7qwf.png)](https://vera.fund)
 
-![https://vera.fund/](https://verarealty.github.io/assets/images/logomakr3y7qwf.png)
 
-
-# VeraFund
++++++++++++++++++++++++++++++++++
 
 КОЛЛЕКТИВНЫЕ ИНВЕСТИЦИИ В НЕДВИЖИМОСТЬ США
 -----------------------------------
